@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_To-do-list/static/css/main.6ce00b66.chunk.css",
+    "main.js": "/React_To-do-list/static/js/main.f84d7fab.chunk.js",
+    "main.js.map": "/React_To-do-list/static/js/main.f84d7fab.chunk.js.map",
+    "runtime-main.js": "/React_To-do-list/static/js/runtime-main.4ed2a397.js",
+    "runtime-main.js.map": "/React_To-do-list/static/js/runtime-main.4ed2a397.js.map",
+    "static/js/2.1cb42869.chunk.js": "/React_To-do-list/static/js/2.1cb42869.chunk.js",
+    "static/js/2.1cb42869.chunk.js.map": "/React_To-do-list/static/js/2.1cb42869.chunk.js.map",
+    "index.html": "/React_To-do-list/index.html",
+    "precache-manifest.e5b94a69762bbecdb1340496df6daf7f.js": "/React_To-do-list/precache-manifest.e5b94a69762bbecdb1340496df6daf7f.js",
+    "service-worker.js": "/React_To-do-list/service-worker.js",
+    "static/css/main.6ce00b66.chunk.css.map": "/React_To-do-list/static/css/main.6ce00b66.chunk.css.map",
+    "static/js/2.1cb42869.chunk.js.LICENSE.txt": "/React_To-do-list/static/js/2.1cb42869.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_To-do-list/static/media/bgimg.6ec428d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed2a397.js",
+    "static/js/2.1cb42869.chunk.js",
+    "static/css/main.6ce00b66.chunk.css",
+    "static/js/main.f84d7fab.chunk.js"
+  ]
+}
